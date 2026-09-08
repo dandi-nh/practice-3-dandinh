@@ -4,7 +4,23 @@ body {
 }
 
 nav {
-    background-color: gold;
+    background-color: #FACB37;
     color:#111111;
     border: 6px solid #111111;
+}
+
+header {
+    background-color: #3153D1;
+    color: #f6f6f6;
+    border: 6px solid #111111;
+}
+
+h1 {
+    color: #FACB37;
+}
+
+img {
+    width: 420px;
+    height: 260px;
+    border: 6px solid #f6f6f6;
 }
