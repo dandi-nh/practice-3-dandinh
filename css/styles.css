@@ -1,3 +1,10 @@
 body {
-    background-color: rgb(233, 199, 157);
+    background: #F6F6F4;
+    color: #111111;
+}
+
+nav {
+    background-color: gold;
+    color:#111111;
+    border: 6px solid #111111;
 }
