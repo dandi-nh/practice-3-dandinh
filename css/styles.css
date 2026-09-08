@@ -24,3 +24,9 @@ img {
     height: 260px;
     border: 6px solid #f6f6f6;
 }
+
+aside {
+    background-color: #D83134;
+    color: #f6f6f6;
+    border: 6px solid #111111;
+}
