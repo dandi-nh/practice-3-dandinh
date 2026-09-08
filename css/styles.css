@@ -4,13 +4,13 @@ body {
 }
 
 nav {
-    background-color: #FACB37;
+    background: #FACB37;
     color:#111111;
     border: 6px solid #111111;
 }
 
 header {
-    background-color: #3153D1;
+    background: #3153D1;
     color: #f6f6f4;
     border: 6px solid #111111;
 }
@@ -26,7 +26,30 @@ img {
 }
 
 aside {
-    background-color: #D83134;
+    background: #D83134;
     color: #f6f6f4;
     border: 6px solid #111111;
+}
+
+main {
+    background: #D83134;
+    border: 6px solid #111111;
+}
+
+article{
+    background: #f6f6f4;
+    border: 3px solid #111111;
+}
+
+section {
+    background: #FACB37;
+    border: 6px solid #D83134;
+}
+
+h2 {
+    color:#D83134;
+}
+
+h3 {
+    color: #3153D1;
 }
