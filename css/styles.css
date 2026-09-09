@@ -4,35 +4,35 @@ body {
 }
 
 nav {
-    background: #FACB37;
+    background: moccasin;
     color:#111111;
     border: 6px solid #111111;
 }
 
 header {
-    background: #3153D1;
-    color: #f6f6f4;
+    background: beige;
+    color: black;
     border: 6px solid #111111;
 }
 
 h1 {
-    color: #FACB37;
+    color: oliveDrab;
 }
 
 img {
     width: 420px;
     height: 260px;
-    border: 6px solid #f6f6f4;
+    border: 6px solid darkOliveGreen;
 }
 
 aside {
-    background: #D83134;
+    background: rgb(168, 43, 70);
     color: #f6f6f4;
     border: 6px solid #111111;
 }
 
 main {
-    background: #D83134;
+    background: blueViolet;
     border: 6px solid #111111;
 }
 
@@ -42,16 +42,16 @@ article{
 }
 
 section {
-    background: #FACB37;
-    border: 6px solid #D83134;
+    background: rgb(255, 245, 188);
+    border: 6px solid oliveDrab;
 }
 
 h2 {
-    color:#D83134;
+    color:rgb(168, 43, 70);
 }
 
 h3 {
-    color: #3153D1;
+    color: oliveDrab;
 }
 
 footer {
